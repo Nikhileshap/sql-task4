@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-[cite_start]To summarize and analyze tabular data using SQL aggregate functions and the GROUP BY clause[cite: 49, 57].
+To summarize and analyze tabular data using SQL aggregate functions and the GROUP BY clause.
 
 ---
 
